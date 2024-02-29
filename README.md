@@ -17,9 +17,9 @@ This project is a simple Product List Management System built using Spring frame
 ## Setup Instructions
 
 1. **Clone the Repository**: `git clone https://github.com/jain-18/Product_list.git`
-2. **Navigate to the Project Directory**: `cd product-list`
+2. **Navigate to the Project Directory**: `cd product_list`
 3. **Build and Run the Application**: If you are using an IDE like IntelliJ or Eclipse, you can simply run the application from there. Alternatively, if you are using Maven, you can run `mvn tomcat7:run` to start the embedded Tomcat server.
-4. **Access the Application**: Open your web browser and go to `http://localhost:8080/product-list`
+4. **Access the Application**: Open your web browser and go to `http://localhost:8080/CRUD2/`
 
 ## Usage
 
@@ -38,6 +38,4 @@ This project is a simple Product List Management System built using Spring frame
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
